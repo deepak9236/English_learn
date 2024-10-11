@@ -1,20 +1,20 @@
 # Present Tenses Guide
 
 ## 1. Present Simple Tense (साधारण वर्तमान काल)
-- **Usage**: To express regular actions, habits, and general truths.
+- **Usage**: नियमित क्रियाएँ, आदतें, और सामान्य सत्य व्यक्त करने के लिए।
 - **Structure**: Subject + Verb (V1)
 
-### Usage of 's' or 'es':
-- **Use 's'**: For third person singular (he, she, it).
+### 's' या 'es' का उपयोग:
+- **Use 's'**: For तीसरे व्यक्ति एकवचन (he, she, it).
   - Example: वह मुस्कुराती है। (She smiles.)
   
-- **Use 'es'**: When the verb ends in 'sh', 'ch', 'x', 'o', or a consonant.
+- **Use 'es'**: When verb 'sh', 'ch', 'x', 'o', या किसी व्यंजन से समाप्त होती है।
   - Example: वह रोटी बनाती है। (She bakes bread.)
 
 ---
 
 ## 2. Present Continuous Tense (वर्तमान जारी काल)
-- **Usage**: To describe actions currently happening.
+- **Usage**: वर्तमान में हो रही क्रियाओं का वर्णन करने के लिए।
 - **Structure**: Subject + is/am/are + Verb + -ing
 - **Examples**:
   - वह गाना गा रही है। (She is singing.)
@@ -24,7 +24,7 @@
 ---
 
 ## 3. Present Perfect Tense (पूर्ण वर्तमान काल)
-- **Usage**: To indicate actions that have recently finished or have relevance to the present.
+- **Usage**: उन क्रियाओं को इंगित करने के लिए जो हाल ही में समाप्त हुई हैं या वर्तमान से संबंधित हैं।
 - **Structure**: Subject + has/have + Verb (V3)
 - **Examples**:
   - मैंने खाना खा लिया है। (I have eaten.)
@@ -34,7 +34,7 @@
 ---
 
 ## 4. Present Perfect Continuous Tense (पूर्ण वर्तमान जारी काल)
-- **Usage**: To express actions that have been ongoing for some time and are still continuing.
+- **Usage**: उन क्रियाओं को व्यक्त करने के लिए जो कुछ समय से जारी हैं और अभी भी जारी हैं।
 - **Structure**: Subject + has/have been + Verb + -ing
 - **Examples**:
   - मैं पढ़ाई कर रहा हूँ। (I have been studying.)
@@ -43,20 +43,20 @@
 
 ---
 
-## Summary of 's' and 'es' Usage
-- **'s'**: Added for third person singular in the present simple tense.
+## 's' और 'es' के उपयोग का सारांश
+- **'s'**: Added for तीसरे व्यक्ति एकवचन में साधारण वर्तमान काल।
   - Example: वह खेलती है। (She plays.)
-- **'es'**: Added when the verb ends in 'sh', 'ch', 'x', or 'o'.
+- **'es'**: Added when verb ends in 'sh', 'ch', 'x', or 'o'.
   - Example: वह बर्फ बनाती है। (She makes ice.)
 
-### Important Notes:
-- Use 's' or 'es' only with third person singular (he, she, it).
-- Do not use 's' or 'es' with first person (I, we) or second person (you, they).
+### महत्वपूर्ण नोट्स:
+- Use 's' या 'es' only with तीसरे व्यक्ति एकवचन (he, she, it).
+- Do not use 's' या 'es' with पहले व्यक्ति (I, we) या दूसरे व्यक्ति (you, they).
 
-## Additional Instructions for Learning Present Tenses:
+## वर्तमान कालों को सीखने के लिए अतिरिक्त निर्देश:
 - Practice forming sentences in each tense using different subjects.
 - Use flashcards for verbs with different endings to remember when to use 's' or 'es'.
-- Regularly quiz yourself on tense forms and their uses to reinforce learning.
+- Regularly quiz yourself on tense forms and उनके उपयोगों को मजबूत करने के लिए।
 
 ## 1. Practice Present Simple Tense:-
 1. मैं खाता हूँ।  
