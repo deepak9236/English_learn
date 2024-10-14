@@ -22,8 +22,6 @@ Write 10 sentences using the Present Simple tense for daily habits and general t
 5. He watches TV after dinner. (वह रात के खाने के बाद टीवी देखता है।)
 6. The sun rises in the east. (सूरज पूर्व दिशा में उगता है।)
 7. You always help your friends. (तुम हमेशा अपने दोस्तों की मदद करते हो।)
-# Present Simple Tense Sentences
-
 8. The shop opens at 10 AM.  
 (दुकान सुबह 10 बजे खुलती है।)
 9. We go for a walk in the park every evening.  
